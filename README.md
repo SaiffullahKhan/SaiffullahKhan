@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### **About Me:**
-- 🌐 **Portfolio:** [[Website URL](https://saiffullahkhanportfolio.vercel.app/)] 
+- 🌐 **Portfolio:** [[My Portfolio](https://saiffullahkhanportfolio.vercel.app/)] 
 - 🌱 **Learning:**  [IOT Security stuff, e.g., Cisco Packet Tracer, Ubuntu]   
 - ⚡ **Fun Fact:** I waste most of my time playing games or watching movies  
 
